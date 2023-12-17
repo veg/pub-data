@@ -17,6 +17,8 @@
 | Sequences/MSA      | 46 [29:71]       | 
 | Codons/MSA      | 361 [61:1061]       | 
 | Tree length/MSA      | 2.1 [1.5:4.6]       | 
+| Gaps/codon column     | 1.78 [0.0:7.33]       | 
+| Gaps/1000 codons sequence   | 42.3 [0.0:167.0]       | 
 | Taxonomic range      | Snakes, reptiles       | 
 | Selection analyses run      | PAML site models (different subsets of sequences). Clade models   |
 

@@ -15,8 +15,10 @@
 | Filtering strategy     | Manual, based on ad hoc criteria       |
 | Tree	      | Yes, using a single species tree, stored in `tree.nwk`  | 
 | Sequences/MSA      | 7       | 
-| Codons/MSA      | TBD       | 
-| Tree length/MSA      | TBD       | 
+| Codons/MSA      | 469 [120:1850]       | 
+| Tree length/MSA      | 0.41 [0.17:0.86]       | 
+| Gaps/codon column     | 0.18 [0.0:1.0]       | 
+| Gaps/1000 codons sequence   | 25.3 [0.0:141.9]       | 
 | Taxonomic range      | Mammals       | 
 | Selection analyses run      | PAML branch-site models (seven terminal lineages)    |
 
